@@ -4,6 +4,7 @@ import { LanguageProvider } from './LanguageProvider';
 import { LanguageSelector } from './LanguageSelector';
 
 function App() {
+
   return (
     <LanguageProvider>
       <LanguageSelector />
